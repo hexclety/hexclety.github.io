@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hexclety.github.io/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/app/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/assets/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/css/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/data/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/includes/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/item/sitemap.hexclety.gz
+Sitemap: https://hexclety.github.io/src/sitemap.hexclety.gz
